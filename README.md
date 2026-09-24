@@ -38,3 +38,4 @@ Italian (native) · English (C1) · Spanish (A2) · German (A2)
 Open to junior Data Analyst roles, fully remote, with Italian and international companies across EMEA.
 
 - Email: vincambrosino@outlook.com
+- LinkedIn: [vincenzo-ambrosino](https://www.linkedin.com/in/vincenzo-ambrosino/)
