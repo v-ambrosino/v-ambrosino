@@ -17,6 +17,7 @@ Teaching taught me to break complex problems into clear steps and explain result
 | Languages | Python, SQL |
 | Data analysis | pandas, NumPy |
 | Visualization | Matplotlib, Seaborn, Power BI (learning) |
+| Spreadsheets & BI | Excel (pivot tables, pivot charts), IBM Cognos Analytics |
 | Machine learning | scikit-learn |
 | Databases | SQLite |
 | Tools | Jupyter, Git, GitHub |
